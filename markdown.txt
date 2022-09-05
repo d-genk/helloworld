@@ -1,12 +1,1 @@
-# H1
-This is a header!
-
-## H2
-This is a smaller header.
-
-We can make text **bold** or *italic*.
-
-There are many things that we can do:
-1. Thing 1
-2. Thing 2
-3. Thing 3
+The markup didn't work.
